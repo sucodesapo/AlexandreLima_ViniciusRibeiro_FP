@@ -1,0 +1,11 @@
+Insatiable Python - Alexandre Lima e Vinicius Ribeiro
+
+Fábio está aguardando a atendente chamá-lo para a consulta ao dentista, está entediado e precisa se distrair. É nesse momento que o Insatiable Python, versão melhorada do clássico jogo Snake, surge para entretê-lo - nada melhor do que um arcade nos momentos maçantes.
+
+O projeto possui um público-alvo amplo, já que muitas pessoas estão fazendo uso de jogos arcades, independente da idade. A intenção é proporcionar instantes de entretenimento em momentos nos quais o usuário está ocioso.
+
+Por ser um clássico, existem diversos produtos parecidos "Snake"; "Snake '97"; "Snake Classic".
+
+Por enquanto, com base nos exemplos de recursos enviados pelo professor, buscaremos usar o Pygame e o Mayami.
+
+Nosso intuito é programar um jogo, então nosso plano b está relacionado a isso. Se o Insatiable Python não for viável, tentaremos fazer o jogo de cartas 21 ou um jogo de luta, como o street fighter.
